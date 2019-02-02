@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EditTextLikeInYoutubeComments</string>
+    <string name="edit_text_hint">Type text</string>
+</resources>
